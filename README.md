@@ -1,0 +1,1 @@
+This repository contains my Data Analytics assignment for the Jawan Pakistan Program. It includes the required code, files, and documentation as per the assignment guidelines. The work is organized for easy review and evaluation by instructors.
